@@ -128,6 +128,3 @@ function! ReadOnly()
   else
     return ''
 endfunction
-
-
-set tags=/run/media/halfboy/COMMON/STUDIA/MAGISTERKA/Practice/linux-4.18.16/tags
